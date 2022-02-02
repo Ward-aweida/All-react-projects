@@ -1,0 +1,12 @@
+div{
+    text-align:center;
+}
+body{
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+h3{
+  width:900px;
+  padding:3px;
+  text-align:left;
+}
